@@ -4,6 +4,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+
+- [Visit my blog](https://furious-05.github.io/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
