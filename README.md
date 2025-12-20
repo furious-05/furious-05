@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Munib Nawaz</h1>
 <h3 align="center">"Passionate About Cybersecurity, Digital Forensics, and Offensive Security"</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mun1bxd&label=Profile%20views&color=0e75b6&style=flat" alt="mun1bxd" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mun1bxd" alt="mun1bxd" /></a> </p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
