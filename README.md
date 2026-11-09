@@ -1,26 +1,68 @@
-<h1 align="center">Hi 👋, I'm Muhammad Munib Nawaz</h1>
-<h3 align="center">"Passionate About Cybersecurity, Digital Forensics, and Offensive Security"</h3>
+<div align="center">
 
+  <h1>Hi 👋, I'm Muhammad Munib Nawaz</h1>
+  <p><strong>Cybersecurity Researcher • Open Source Contributor • Digital Forensics (DFIR) & Tooling Engineer</strong></p>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
+  <p>
+    <a href="https://furious-05.github.io/"><img src="https://img.shields.io/badge/Blog-furious--05.github.io-blue?style=flat-square&logo=google-chrome&logoColor=white" alt="Blog" /></a>
+    <a href="mailto:muneebnawaz3849@gmail.com"><img src="https://img.shields.io/badge/Email-muneebnawaz3849@gmail.com-red?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://github.com/furious-05"><img src="https://img.shields.io/badge/GitHub-furious--05-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  </p>
 
-- [Visit my blog](https://furious-05.github.io/)
+</div>
 
-<!-- BLOG-POST-LIST:END -->
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/dev. to mun1bxd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev. to mun1bxd" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muhammad munib nawaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad munib nawaz" height="30" width="40" /></a>
-<a href="https://medium.com/@munib nawaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@munib nawaz" height="30" width="40" /></a>
-</p>
+### 🚀 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+I am a security practitioner focused on **Digital Forensics & Incident Response (DFIR)**, **offensive security**, and **systems-level security tooling**. I actively contribute core features and security modules to industry-standard tools including **ProjectDiscovery Nuclei**, **Velocidex Velociraptor**, and **Aqua Security Trivy**.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mun1bxd&show_icons=true&locale=en&layout=compact" alt="mun1bxd" /></p>
+* 🔭 **Currently Working On:** Advanced DFIR forensic artifacts, network access policies, and AI-driven automated security harnesses.
+* 🛠️ **Core Languages:** Go, Python, C/C++, PowerShell, Bash, VQL (Velociraptor Query Language).
+* 📝 **Technical Blog:** Sharing walkthroughs, CTF writeups, and forensic research at [furious-05.github.io](https://furious-05.github.io/).
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mun1bxd&show_icons=true&locale=en" alt="mun1bxd" /></p>
+---
 
+### 🏆 Notable Open Source Contributions
 
+| Project | Role / Contribution | Tech |
+|:---|:---|:---:|
+| **[Velocidex / Velociraptor](https://github.com/Velocidex/velociraptor)** | Authored [`Windows.Forensics.Recall`](https://github.com/Velocidex/velociraptor/pull/5130) to extract and parse Windows 11 Copilot Recall SQLite databases, app activities, and tokens. | `VQL` `Forensics` |
+| **[ProjectDiscovery / Nuclei](https://github.com/projectdiscovery/nuclei)** | Added [`MQTT JavaScript protocol module`](https://github.com/projectdiscovery/nuclei/pull/8075) and routed [`MSSQL driver through Fastdialer`](https://github.com/projectdiscovery/nuclei/pull/8082) with network access policy enforcement. | `Go` `Networking` |
+| **[Aqua Security / Trivy](https://github.com/aquasecurity/trivy)** | Added [`weak MD5 certificate signature detection`](https://github.com/aquasecurity/trivy/pull/11543) to container and crypto vulnerability scanner. | `Go` `Cryptography` |
+
+---
+
+### 🛠️ Technical Skills & Tooling
+
+<div align="left">
+
+* **Languages:**  
+  `Go` • `Python` • `C` • `C++` • `Bash` • `PowerShell` • `TypeScript / JavaScript` • `SQL`
+
+* **Security & DFIR:**  
+  `Velociraptor` • `Nuclei` • `Trivy` • `Wireshark` • `Nmap` • `Burp Suite` • `Fastdialer` • `Metasploit` • `Active Directory`
+
+* **Systems & Cloud:**  
+  `Linux (Debian / Kali / Ubuntu)` • `Windows Internals` • `Docker` • `Git` • `FastAPI` • `Next.js`
+
+</div>
+
+---
+
+### 📊 GitHub Activity & Stats
+
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=furious-05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Muhammad's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=furious-05&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=furious-05&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+</div>
+
+---
+
+<div align="center">
+  <sub>⭐️ Profile updated dynamically • Feel free to explore my repositories or connect!</sub>
+</div>
